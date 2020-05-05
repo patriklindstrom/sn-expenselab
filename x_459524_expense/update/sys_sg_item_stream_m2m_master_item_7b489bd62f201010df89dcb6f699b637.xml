@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="item Item Stream">7f489bd62f201010df89dcb6f699b636</item_stream>
+        <master_item display_value="item master_item">77489bd62f201010df89dcb6f699b637</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-05 19:12:24</sys_created_on>
+        <sys_id>7b489bd62f201010df89dcb6f699b637</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Expense" source="x_459524_expense">7603d3522f201010df89dcb6f699b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense">7603d3522f201010df89dcb6f699b681</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_7b489bd62f201010df89dcb6f699b637</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-05 19:12:24</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

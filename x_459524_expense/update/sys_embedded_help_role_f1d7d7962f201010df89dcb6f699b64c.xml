@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="expense" name="expense">35d7d7962f201010df89dcb6f699b649</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-05 19:10:21</sys_created_on>
+        <sys_id>f1d7d7962f201010df89dcb6f699b64c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>35d7d7962f201010df89dcb6f699b649</sys_name>
+        <sys_package display_value="Expense" source="x_459524_expense">7603d3522f201010df89dcb6f699b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense">7603d3522f201010df89dcb6f699b681</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f1d7d7962f201010df89dcb6f699b64c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-05 19:10:21</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

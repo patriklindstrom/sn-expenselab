@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Expense reports">59d797962f201010df89dcb6f699b6b3</category>
+        <columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by,closed_at,closed_by</columns>
+        <condition table="x_459524_expense_report">active=false^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <groups/>
+        <list_attributes/>
+        <order>300</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-05 19:10:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>55d797962f201010df89dcb6f699b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Expense" source="x_459524_expense">7603d3522f201010df89dcb6f699b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense">7603d3522f201010df89dcb6f699b681</sys_scope>
+        <sys_update_name>sys_aw_list_55d797962f201010df89dcb6f699b6d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-05 19:10:19</sys_updated_on>
+        <table>x_459524_expense_report</table>
+        <title>Closed</title>
+        <workspace display_value="Expense">c8d79b922f201010df89dcb6f699b6d5</workspace>
+    </sys_aw_list>
+</record_update>

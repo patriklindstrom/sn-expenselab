@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Expense report</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Expense report</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">67b19a842f201010df89dcb6f699b6de</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-05 18:55:54</sys_created_on>
+        <sys_id>068417162f201010df89dcb6f699b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expense report</sys_name>
+        <sys_package display_value="Expense" source="x_459524_expense">7603d3522f201010df89dcb6f699b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense">7603d3522f201010df89dcb6f699b681</sys_scope>
+        <sys_update_name>sys_wizard_answer_068417162f201010df89dcb6f699b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-05 18:55:54</sys_updated_on>
+        <table/>
+        <target_url>x_459524_expense_report.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

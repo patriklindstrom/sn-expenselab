@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Expense report)">e7489bd62f201010df89dcb6f699b606</button>
+        <item_parameter display_value="Expense report short_description">6f489bd62f201010df89dcb6f699b603</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-05 19:12:23</sys_created_on>
+        <sys_id>67489bd62f201010df89dcb6f699b60a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6f489bd62f201010df89dcb6f699b603</sys_name>
+        <sys_package display_value="Expense" source="x_459524_expense">7603d3522f201010df89dcb6f699b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense">7603d3522f201010df89dcb6f699b681</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_67489bd62f201010df89dcb6f699b60a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-05 19:12:23</sys_updated_on>
+        <ui_parameter display_value="Short description">67489bd62f201010df89dcb6f699b608</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

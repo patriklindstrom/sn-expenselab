@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="item" max_length="40" name="x_459524_expense_item" text_index="true" type="collection">
+        <element label="Account" max_length="40" name="account" type="integer"/>
+        <element label="Amount" max_length="15" name="amount" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Business purpose" max_length="40" name="business_purpose" type="string"/>
+        <element attributes="encode_utf8=false" label="Employee" max_length="32" name="employee" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Expense report" max_length="32" name="expense_report" reference="x_459524_expense_report" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Expense Type" max_length="40" name="expense_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Dining" value="dining"/>
+                <element inactive_on_update="false" label="Hotel" value="hotel"/>
+                <element inactive_on_update="false" label="Transportation" value="transportation"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="yes" label="Receipt status" max_length="40" name="receipt_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="no"/>
+                <element inactive_on_update="false" label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Transaction date" max_length="40" name="transaction_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor name" max_length="40" name="vendor_name" type="string"/>
+        <index name="index">
+            <element name="expense_report"/>
+        </index>
+        <index name="index2">
+            <element name="employee"/>
+        </index>
+    </element>
+</database>
