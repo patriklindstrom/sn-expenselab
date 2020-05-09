@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="item" max_length="40" name="x_459524_expense_item" text_index="true" type="collection">
+    <element label="item" max_length="40" name="x_459524_expense_item" sizeclass="8" text_index="true" type="collection">
         <element label="Account" max_length="40" name="account" type="integer"/>
         <element label="Amount" max_length="15" name="amount" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" label="Business purpose" max_length="40" name="business_purpose" type="string"/>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0a1ba7562f601010df89dcb6f699b64b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_459524_expense_item">
+    <x_459524_expense_item action="INSERT_OR_UPDATE">
+        <account>1510</account>
+        <amount>45.18</amount>
+        <business_purpose>Customer meeting</business_purpose>
+        <employee display_value="Luke Wilson">46d96f57a9fe198101947a9620895886</employee>
+        <expense_report/>
+        <expense_type>dining</expense_type>
+        <receipt_status>yes</receipt_status>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-05 20:34:28</sys_created_on>
+        <sys_id>0a1ba7562f601010df89dcb6f699b64b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-05 20:34:28</sys_updated_on>
+        <transaction_date>2019-06-01</transaction_date>
+        <vendor_name>Crystals</vendor_name>
+    </x_459524_expense_item>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-09 17:45:09</sys_created_on>
+        <sys_id>74baafa32f201010df89dcb6f699b698</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2020-05-05 13:34:28</sys_name>
+        <sys_package display_value="Expense" source="x_459524_expense">7603d3522f201010df89dcb6f699b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense">7603d3522f201010df89dcb6f699b681</sys_scope>
+        <sys_update_name>sys_metadata_link_74baafa32f201010df89dcb6f699b698</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-09 17:45:09</sys_updated_on>
+        <tablename>x_459524_expense_item</tablename>
+    </sys_metadata_link>
+</record_update>
