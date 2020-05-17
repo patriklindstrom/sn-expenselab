@@ -4,6 +4,7 @@
         <element label="Amount" max_length="15" name="amount" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" label="Business purpose" max_length="40" name="business_purpose" type="string"/>
         <element default="SEK" label="Currency" mandatory="true" max_length="3" name="currency" type="string"/>
+        <element label="Due Diligence candidate" max_length="40" name="due_diligence_candidate" type="boolean"/>
         <element attributes="encode_utf8=false" label="Employee" max_length="32" name="employee" reference="sys_user" type="reference"/>
         <element attributes="encode_utf8=false" label="Expense report" max_length="32" name="expense_report" reference="x_459524_expense_report" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Expense Type" max_length="40" name="expense_type" type="choice">
