@@ -6,7 +6,7 @@
         <compiled_page_registry display_value="Expense">c0d79b922f201010df89dcb6f699b6d6</compiled_page_registry>
         <description>Lab demo of expense</description>
         <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
-        <global_search_data display_value="Expense Search Context Config">4cd79b922f201010df89dcb6f699b6d3</global_search_data>
+        <global_search_data display_value="">4cd79b922f201010df89dcb6f699b6d3</global_search_data>
         <name>Expense</name>
         <navigation_type>tab</navigation_type>
         <notifications_enabled>true</notifications_enabled>
